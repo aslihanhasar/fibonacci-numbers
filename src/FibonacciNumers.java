@@ -16,8 +16,6 @@ public class FibonacciNumers {
             System.out.print(" , " + tNum);
             fNum = sNum;
             sNum = tNum;
-
         }
     }
-
 }
