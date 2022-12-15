@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FibonacciNumers {
+public class FibonacciNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number, i, tNum;
