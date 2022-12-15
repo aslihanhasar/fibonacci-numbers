@@ -14,7 +14,7 @@
 
 ## Installation
 Clone the project.
-> https://github.com/miyendisa/fibonacci-number.git
+> https://github.com/miyendisa/fibonacci-numbers.git
 
 ---
 
