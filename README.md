@@ -5,7 +5,8 @@
 
 ### Details
 * What is the Fibonacci sequence?
-  *The Fibonacci sequence is a set of integers that starts with a zero, followed
+ 
+ * The Fibonacci sequence is a set of integers that starts with a zero, followed
   by a one, then by another one, and then by a series of steadily increasing numbers.
   The sequence follows the rule that each number is equal to the sum of the preceding two numbers.
 
